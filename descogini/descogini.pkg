@@ -1,5 +1,4 @@
-d 'DEA': Data envelopment analysis
+d 'descogini': Gini decomposition by income source Use descogini With STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f descogini.ado
+f descogini.hlp
