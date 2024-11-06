@@ -1,6 +1,8 @@
 # descogini
 Gini decomposition by income source Use descogini With STATA 18
 
+https://www.youtube.com/watch?v=xNvoW6IJ9Pw
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
